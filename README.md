@@ -1,7 +1,5 @@
 <!--
-  This is your GitHub profile README.
-  It lives in a special repo named after you: github.com/wolfiesch/wolfiesch
-  The file MUST be at the repo root and named README.md
+  GitHub profile README — lives at github.com/wolfiesch/wolfiesch, file README.md at root.
 -->
 
 <div align="center">
@@ -28,77 +26,32 @@ Making spreadsheets fast and AI agents useful.
 
 ## What I'm building
 
-#### [WolfXL](https://github.com/SynthGL/wolfxl) &nbsp;·&nbsp; Rust 🦀 + Python 🐍
-Openpyxl-compatible Excel automation with a Rust backend. Read, write, and surgically
-modify workbooks — charts, images, encryption, structural ops, and pivot tables — at
-**~8–18× the speed of openpyxl** with the same API. One import change.
+**[WolfXL](https://github.com/SynthGL/wolfxl)** · Rust 🦀 + Python 🐍
+Openpyxl-compatible Excel automation with a Rust backend. Read, write, and surgically modify workbooks — charts, images, encryption, structural ops, and pivot tables — at **~8–18× the speed of openpyxl** with the same API. One import change.
 
 ```diff
 - from openpyxl import load_workbook, Workbook
 + from wolfxl   import load_workbook, Workbook
 ```
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[sf-parking-heatmap](https://github.com/wolfiesch/sf-parking-heatmap)** ⭐ 126 · `TypeScript`
+Temporal heatmap of SF metered parking — typical-week occupancy from 206M+ meter transactions, with bike-share and isochrone overlays.
 
-#### [sf-parking-heatmap](https://github.com/wolfiesch/sf-parking-heatmap) ⭐ 126
-Temporal heatmap of SF metered parking — typical-week occupancy from 206M+ meter
-transactions, with bike-share and isochrone overlays.
+**[spreadsheet-peek](https://github.com/wolfiesch/spreadsheet-peek)** · `TypeScript`
+Agent-agnostic skill that lets AI coding agents preview spreadsheets with token-efficient fallbacks — powered by WolfXL peek.
 
-`TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-#### [spreadsheet-peek](https://github.com/wolfiesch/spreadsheet-peek)
-Agent-agnostic skill that lets AI coding agents preview spreadsheets with token-efficient
-fallbacks — powered by WolfXL peek.
-
-`TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [omp-episodic-memory](https://github.com/wolfiesch/omp-episodic-memory)
-Hybrid semantic + keyword search over Oh My Pi session transcripts, so your agent
-remembers across sessions.
-
-`TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-<!-- room for your next project -->
-
-</td>
-</tr>
-</table>
+**[omp-episodic-memory](https://github.com/wolfiesch/omp-episodic-memory)** · `TypeScript`
+Hybrid semantic + keyword search over Oh My Pi session transcripts, so your agent remembers across sessions.
 
 ---
 
 ## Open source I contribute to
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**[Orca](https://github.com/stablyai/orca)** ⭐ 6.4k
+The ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription — desktop and mobile.
 
-### [Orca](https://github.com/stablyai/orca) &nbsp; ⭐ 6.4k
-The ADE for working with a fleet of parallel agents. Run any coding agent with your own
-subscription — desktop and mobile.
-
-</td>
-<td width="50%" valign="top">
-
-### [Oh My Pi](https://github.com/can1357/oh-my-pi) &nbsp; ⭐ 14.4k
-AI coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP,
-Python, browser, and subagents.
-
-</td>
-</tr>
-</table>
+**[Oh My Pi](https://github.com/can1357/oh-my-pi)** ⭐ 14.4k
+AI coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, and subagents.
 
 ---
 
