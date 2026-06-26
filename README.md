@@ -60,3 +60,5 @@ AI coding agent for the terminal — hash-anchored edits, optimized tool harness
 ![Wolfie's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolfiesch&show_icons=true&hide_border=true&theme=transparent&hide=contribs&count_private=true)
 
 </div>
+
+<!-- rebuild 1782441604 -->
