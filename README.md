@@ -26,7 +26,7 @@ Making spreadsheets fast and AI agents useful.
 
 ## What I'm building
 
-**[WolfXL](https://github.com/SynthGL/wolfxl)** · Rust 🦀 + Python 🐍
+**[WolfXL](https://github.com/SynthGL/wolfxl-oss)** · Rust 🦀 + Python 🐍
 Openpyxl-compatible Excel automation with a Rust backend. Read, write, and surgically modify workbooks — charts, images, encryption, structural ops, and pivot tables — at **~8–18× the speed of openpyxl** with the same API. One import change.
 
 ```diff
@@ -34,7 +34,7 @@ Openpyxl-compatible Excel automation with a Rust backend. Read, write, and surgi
 + from wolfxl   import load_workbook, Workbook
 ```
 
-**[sf-parking-heatmap](https://github.com/wolfiesch/sf-parking-heatmap)** ⭐ 126 · `TypeScript`
+**[sf-parking-heatmap](https://github.com/wolfiesch/sf-parking-heatmap)** ⭐ 134 · `TypeScript`
 Temporal heatmap of SF metered parking — typical-week occupancy from 206M+ meter transactions, with bike-share and isochrone overlays.
 
 **[spreadsheet-peek](https://github.com/wolfiesch/spreadsheet-peek)** · `TypeScript`
@@ -47,18 +47,10 @@ Hybrid semantic + keyword search over Oh My Pi session transcripts, so your agen
 
 ## Open source I contribute to
 
-**[Orca](https://github.com/stablyai/orca)** ⭐ 6.4k
+**[Orca](https://github.com/stablyai/orca)** ⭐ 66.2k
 The ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription — desktop and mobile.
 
-**[Oh My Pi](https://github.com/can1357/oh-my-pi)** ⭐ 14.4k
+**[Oh My Pi](https://github.com/can1357/oh-my-pi)** ⭐ 30.6k
 AI coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, and subagents.
-
----
-
-<div align="center">
-
-![Wolfie's GitHub stats](https://github-readme-stats.vercel.app/api?username=wolfiesch&show_icons=true&hide_border=true&theme=transparent&hide=contribs&count_private=true)
-
-</div>
 
 <!-- rebuild 1782441604 -->
