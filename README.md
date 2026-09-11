@@ -27,7 +27,7 @@ Making spreadsheets fast and AI agents useful.
 ## What I'm building
 
 **[WolfXL](https://github.com/SynthGL/wolfxl-oss)** · Rust 🦀 + Python 🐍
-Openpyxl-compatible Excel automation with a Rust backend. Read, write, and surgically modify workbooks — charts, images, encryption, structural ops, and pivot tables — at **~8–18× the speed of openpyxl** with the same API. One import change.
+Openpyxl-compatible Excel automation with a Rust backend. Read, write, and surgically modify workbooks (charts, images, encryption, structural ops, and pivot tables) at **~8–18× the speed of openpyxl** with the same API. One import change.
 
 ```diff
 - from openpyxl import load_workbook, Workbook
@@ -35,10 +35,10 @@ Openpyxl-compatible Excel automation with a Rust backend. Read, write, and surgi
 ```
 
 **[sf-parking-heatmap](https://github.com/wolfiesch/sf-parking-heatmap)** ⭐ 134 · `TypeScript`
-Temporal heatmap of SF metered parking — typical-week occupancy from 206M+ meter transactions, with bike-share and isochrone overlays.
+Temporal heatmap of SF metered parking: typical-week occupancy from 206M+ meter transactions, with bike-share and isochrone overlays.
 
 **[spreadsheet-peek](https://github.com/wolfiesch/spreadsheet-peek)** · `TypeScript`
-Agent-agnostic skill that lets AI coding agents preview spreadsheets with token-efficient fallbacks — powered by WolfXL peek.
+Agent-agnostic skill that lets AI coding agents preview spreadsheets with token-efficient fallbacks, powered by WolfXL peek.
 
 **[omp-episodic-memory](https://github.com/wolfiesch/omp-episodic-memory)** · `TypeScript`
 Hybrid semantic + keyword search over Oh My Pi session transcripts, so your agent remembers across sessions.
@@ -48,9 +48,9 @@ Hybrid semantic + keyword search over Oh My Pi session transcripts, so your agen
 ## Open source I contribute to
 
 **[Orca](https://github.com/stablyai/orca)** ⭐ 66.2k
-The ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription — desktop and mobile.
+The ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Desktop and mobile.
 
 **[Oh My Pi](https://github.com/can1357/oh-my-pi)** ⭐ 30.6k
-AI coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, and subagents.
+AI coding agent for the terminal: hash-anchored edits, optimized tool harness, LSP, Python, browser, and subagents.
 
 <!-- rebuild 1782441604 -->
