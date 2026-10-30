@@ -34,6 +34,12 @@ Openpyxl-compatible Excel automation with a Rust backend. Read, write, and surgi
 + from wolfxl   import load_workbook, Workbook
 ```
 
+**[WolfPPT](https://github.com/wolfiesch/wolfppt-oss)** · Rust 🦀 + Python 🐍
+A python-pptx alternative for editing existing PowerPoint decks. Change text, tables, and chart data while every part you did not touch stays byte-for-byte identical.
+
+**[WolfDocx](https://github.com/wolfiesch/wolfdocx-oss)** · Python 🐍
+A python-docx alternative for editing existing Word documents in place. Find and replace across runs, edit tables, sections, and styles, and keep every untouched part byte-for-byte identical. Pure Python, MIT licensed.
+
 **[sf-parking-heatmap](https://github.com/wolfiesch/sf-parking-heatmap)** ⭐ 134 · `TypeScript`
 Temporal heatmap of SF metered parking: typical-week occupancy from 206M+ meter transactions, with bike-share and isochrone overlays.
 
