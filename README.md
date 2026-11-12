@@ -72,5 +72,3 @@ Run a fleet of coding agents with your own subscription, on desktop, mobile, and
 
 **[Oh My Pi](https://github.com/can1357/oh-my-pi)** ![stars](https://img.shields.io/github/stars/can1357/oh-my-pi?style=flat&label=stars&color=yellow) [![merged PRs](https://img.shields.io/github/issues-search?query=repo%3Acan1357%2Foh-my-pi%20author%3Awolfiesch%20is%3Apr%20is%3Amerged&label=my%20merged%20PRs&color=8250df)](https://github.com/can1357/oh-my-pi/pulls?q=is%3Apr+is%3Amerged+author%3Awolfiesch)
 Highly regarded CLI agent harness. My work centers on agent-loop reliability (bounded RPC output, lossless paged transport, oversized tool results spilled to artifacts), native performance (memory-recall vector kernels and diffs in native code), and subagent orchestration.
-
-<sub>Also merged upstream: [CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI/pulls?q=is%3Apr+is%3Amerged+author%3Awolfiesch) (model registry) and [umya-spreadsheet](https://github.com/MathNya/umya-spreadsheet/pulls?q=is%3Apr+is%3Amerged+author%3Awolfiesch) (hyperlink unescaping).</sub>
